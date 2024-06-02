@@ -1,0 +1,31 @@
+.insta{
+    width: 70px;
+    height: 70px;
+    border-radius: 25%;
+}
+.insta:hover{
+    opacity: 0.7;/*Reduce opacity on over*/
+    cursor: pointer;
+}
+.twitter{
+    width: 70px;
+    height: 70px;
+    border-radius: 25%;
+}
+.twitter:hover{
+    opacity: 0.7;/*Reduce opacity on over*/
+    cursor: pointer;
+}
+.facebook{
+    width: 70px;
+    height: 70px;
+    border-radius: 25%;
+}
+.facebook:hover{
+    opacity: 0.7;/*Reduce opacity on over*/
+    cursor: pointer;
+}
+.input{
+    margin-left:200px;
+    margin-top: 100px;
+}
